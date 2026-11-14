@@ -48,3 +48,11 @@ Membuat formulir untuk menerima nama dan program studi mahasiswa menggunakan met
 ## Result
 
 ![Menampilkan pemrosesan form dengan POST](screenshot/ss6.png)
+
+7. Pengolahan Data Sederhana
+
+Membuat formulir transaksi barang yang menerima nama barang, harga, dan jumlah. PHP menghitung subtotal berdasarkan harga dikalikan jumlah barang serta melakukan validasi input.
+
+## Result 
+
+![Menampilkan hasil pengolahan data sederhana](screenshot/ss7.png)
