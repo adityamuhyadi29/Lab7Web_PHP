@@ -24,3 +24,11 @@ Membuat array yang berisi nama mahasiswa dan menampilkan seluruh data menggunaka
 ## Result
 
 ![Gambar hasil perulanagan dan array](screenshot/ss3.png)
+
+4. Membuat Function
+
+Membuat function hitungDiskon() untuk menghitung harga setelah mendapatkan potongan diskon. Latihan juga mencakup pembuatan function tambahan.
+
+## Result
+
+![Menampilkan hasil fungsi](screenshot/ss4.png)
