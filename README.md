@@ -16,3 +16,11 @@ Menggunakan variabel untuk menyimpan nilai mahasiswa, menghitung nilai akhir ber
 ## Result
 
 ![Menampilkan hasil operator dan percabangan](screenshot/ss2.png)
+
+3. Perulangan dan Array
+
+Membuat array yang berisi nama mahasiswa dan menampilkan seluruh data menggunakan perulangan foreach.
+
+## Result
+
+![Gambar hasil perulanagan dan array](screenshot/ss3.png)
