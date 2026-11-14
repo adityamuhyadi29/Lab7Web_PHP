@@ -40,3 +40,11 @@ Membuat formulir pencarian sederhana menggunakan metode GET untuk menerima dan m
 ## Result
 
 ![Menampilkan pemrosesan form daengan GET](screenshot/ss5.png)
+
+6. Memproses Form dengan POST
+
+Membuat formulir untuk menerima nama dan program studi mahasiswa menggunakan metode POST, kemudian menampilkan data setelah dikirim.
+
+## Result
+
+![Menampilkan pemrosesan form dengan POST](screenshot/ss6.png)
