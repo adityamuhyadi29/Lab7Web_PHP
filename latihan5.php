@@ -7,6 +7,6 @@
 <?php
 if (isset($_GET["kata"])) {
     $kata = trim($_GET["kata"]);
-    echo "Kata kunci" . htmlsepecialchars($kata, ENT_QUOTES, "UTF-8");
+    echo "Kata kunci: " . htmlspecialchars($kata, ENT_QUOTES, "UTF-8");
 }
 ?>

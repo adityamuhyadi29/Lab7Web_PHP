@@ -32,3 +32,11 @@ Membuat function hitungDiskon() untuk menghitung harga setelah mendapatkan poton
 ## Result
 
 ![Menampilkan hasil fungsi](screenshot/ss4.png)
+
+5. Memproses Form dengan GET
+
+Membuat formulir pencarian sederhana menggunakan metode GET untuk menerima dan menampilkan kata kunci yang dimasukkan pengguna.
+
+## Result
+
+![Menampilkan pemrosesan form daengan GET](screenshot/ss5.png)
