@@ -8,3 +8,11 @@ Membuat halaman PHP sederhana untuk menampilkan teks dan waktu server menggunaka
 ## Result
 
 ![Hasil menampilkan waktu server](screenshot/ss1.png)
+
+2. Variabel, Operator, dan Percabangan
+
+Menggunakan variabel untuk menyimpan nilai mahasiswa, menghitung nilai akhir berdasarkan bobot tugas, UTS, dan UAS, serta menentukan predikat berdasarkan hasil perhitungan.
+
+## Result
+
+![Menampilkan hasil operator dan percabangan](screenshot/ss2.png)
